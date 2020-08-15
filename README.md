@@ -5,9 +5,10 @@ Functions performed on a JSON to help with validation testing
 
 Scenario - 1
 
-1.1 Write a function to read a JSON file and return number of files belongs to each status
+1 Write a function to read a JSON file and return number of files belongs to each status
 
 Scenario - 2
+
 2 Using above solution return document details based on passed status argument
 
 Scenario - 3
